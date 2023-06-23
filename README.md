@@ -11,6 +11,6 @@ and an internal transaction validation logic based on a set of heuristic rules.
 - Java
 - Spring Boot
 - Spring Security
-- Spring Data JPA
+- Hibernate
 - Jackson
 - H2 Database
